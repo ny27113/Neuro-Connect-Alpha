@@ -1,0 +1,9 @@
+# Add lines to this file to exclude them from the "npx text-hoarder process" command.
+# For example, exclude lines like "Advertisement", "RECOMMENDED VIDEOS FOR YOU",
+# and other unwanted content.
+#
+# Lines starting with "#" are comments and are ignored.
+#
+# This file is supplementing the default exclude list that comes with Text Hoarder.
+# See default exclude list - https://github.com/maxpatiiuk/text-hoarder/blob/main/packages/cli/src/components/Spam/exclude-list.txt
+# See docs - https://github.com/maxpatiiuk/text-hoarder/tree/main/docs#readme
